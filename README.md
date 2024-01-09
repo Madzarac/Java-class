@@ -1,2 +1,2 @@
 # Odabrana-poglavlja-razvoja-programske-potpore
-Razvoj grafičkog korisničkog sučelja temeljen na objektnom modelu komponenata. Automatizirana izgradnja programskog projekta, testiranje i upravljanje izvornim kodovima.
+Laboratorijske vježbe iz predmeta Odabrana Poglavlja Razvoja Programske Potpore 1 (prof. Marko Čupić)
